@@ -1,0 +1,7 @@
+
+Name:
+appl_accepted_20072019Q3.csv(1.96 GB)
+Path:
+https://www.kaggle.com/datasets/denychaen/lending-club-loans-rejects-data
+
+After downloading, place the file under folder named "data"(under which this txt placed)
